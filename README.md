@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Nicolas 👋 
 
-<!--
-**nicolasdubet/nicolasdubet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💁🏻‍♀️ I'm a Ruby on Rails developer from France 
 
-Here are some ideas to get you started:
+🌱 I’m currently looking for jobs opportunities 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍🎓 I attended Le Wagon Paris (Batch #591) from April to June 2021 
+
+👯 My group project at Le Wagon is Feeler, a influencers platform - https://www.feeler.me 
+
+🤖 I can code in Ruby on Rails, JS, HTML & CSS. 
+
+📫 How to reach me: nicolas.dubet@gmail.com
