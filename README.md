@@ -1,4 +1,4 @@
-### Hi, I'm Nicolas 👋 
+### Hi, 👋 
 
 💁🏻 I'm a Ruby on Rails developer from France 
 
